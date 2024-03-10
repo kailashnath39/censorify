@@ -1,0 +1,17 @@
+{
+    "author": "Kailash Nath",
+    "name": "censorify",
+    "version": "0.1.2",
+    "description": "Censors Words out of text",
+    "main": "censorify",
+    "keywords": [
+        "censor",
+        "getCensoredWords",
+        "addCensoredWord"
+    ],
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/kailashnath39/censorify.git"
+    },
+    "dependencies" : {}
+}
